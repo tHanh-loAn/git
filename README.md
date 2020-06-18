@@ -1,0 +1,2 @@
+# git
+Use Git firstly
